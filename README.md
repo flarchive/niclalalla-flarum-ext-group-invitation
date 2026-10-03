@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of niclalalla/flarum-ext-group-invitation.** Not for installation: use [Packagist](https://packagist.org/packages/niclalalla/flarum-ext-group-invitation) or the [upstream repository](https://github.com/niclalalla/flarum-ext-group-invitation).
 
-**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v2.0.2) · License: `MIT` · Flarum: `>=0.1.0-beta.14 <0.1.0-beta.15`
+**7** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v2.0.2) · License: `MIT` · Flarum: `>=0.1.0-beta.14 <0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-08-03 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-08-04 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v0.1.1) |
+| `0.1.2` | 2020-11-17 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v0.1.2) |
+| `0.1.4` | 2020-11-27 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v0.1.4) |
+| `1.0.5` | 2020-11-27 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v1.0.5) |
+| `1.0.6` | 2020-11-27 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v1.0.6) |
+| `v1.0.3` | 2020-11-27 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/niclalalla-flarum-ext-group-invitation/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/niclalalla-flarum-ext-group-invitation.json](https://github.com/flarchive/archive-index/blob/main/packages/niclalalla-flarum-ext-group-invitation.json)
 
